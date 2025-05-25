@@ -1,0 +1,4 @@
+﻿{"payment_id": 1, "payment_type": "from_customer", "invoice_id": 9, "partner_id": 1, "amount_paid": 13000,00, "payment_date": "2025-05-14"}
+{"payment_id": 2, "payment_type": "from_customer", "invoice_id": 9, "partner_id": 1, "amount_paid": 10000,00, "payment_date": "2025-05-24"}
+{"payment_id": 3, "payment_type": "to_performer", "invoice_id": 9, "partner_id": 1, "amount_paid": -500,00, "payment_date": "2025-05-24"}
+{"payment_id": 4, "payment_type": "to_performer", "invoice_id": 9, "partner_id": 1, "amount_paid": -92559631349317830736831783200707727132248687965119994463780864,00, "payment_date": "2025-05-24"}
